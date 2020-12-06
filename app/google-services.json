@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915919725250",
+    "project_id": "groceylist-38260",
+    "storage_bucket": "groceylist-38260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915919725250:android:0270848d109dad512ad15b",
+        "android_client_info": {
+          "package_name": "com.raj.grocerylistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915919725250-asso4tu8hjeu1npfv07ndnobekogguvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raj.grocerylistapp",
+            "certificate_hash": "a047c00d1859c998f1cf98115798aef7bb89fbd3"
+          }
+        },
+        {
+          "client_id": "915919725250-d71n28pth2s4kf7jjnueravtle9ic4ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_pqzqZt0lxtAxj3wNTrUKdHD0mbfUeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915919725250-d71n28pth2s4kf7jjnueravtle9ic4ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
